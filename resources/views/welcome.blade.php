@@ -8,7 +8,7 @@
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
 <link href="css/responsive.css" rel="stylesheet">
-
+<meta charset="UTF-8">
 <!--Master Slider-->
 <link href="css/masterslider/style/masterslider.css" rel="stylesheet">
 <link href="css/masterslider/skins/default/style.css" rel="stylesheet">
@@ -16,6 +16,7 @@
 
 <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 <link rel="icon" href="images/favicon.png" type="image/x-icon">
+
 
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
