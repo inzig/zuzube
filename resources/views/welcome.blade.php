@@ -24,6 +24,11 @@
 
 <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 <!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
+<style>
+.logo-navbar{
+	width: 22%;
+}
+</style>
 </head>
 
 <body>
@@ -35,20 +40,24 @@
  	
     <!-- Main Header-->
     <header class="main-header header-style-two">
-    	
+	<nav class="navbar navbar-light bg-light">
+		<div class="navbar-header">
+		<a class="navbar-brand" href="{{ url('/')}}"><img class="logo-navbar" src="zuzube-logo.png" alt="" title=""></a>
+		</div>
+		<div id="google_translate_element"></div>
+	</nav>
     	<!--Header-Upper-->
-        <div class="header-upper">
+        <!-- <div class="header-upper">
         	<div class="auto-container">
             	<div class="clearfix">
-                	
+
                 	<div class="pull-left logo-box">
                     	<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
                     </div>
-                   	
                    
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--End Header Upper-->
         
     </header>
@@ -623,6 +632,13 @@
 <script src="js/masterslider/masterslider.js"></script>
 <script src="js/jquery-ui.js"></script>
 <script src="js/script.js"></script>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 
 </html>
