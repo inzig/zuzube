@@ -28,6 +28,9 @@
 .logo-navbar{
 	width: 22%;
 }
+select.goog-te-combo {
+    height: 35px;
+}
 </style>
 </head>
 
