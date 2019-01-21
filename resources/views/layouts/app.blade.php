@@ -8,8 +8,8 @@
   <meta name="description" content="">
   <meta name="author" content="">
   <title>Zuzube</title>
-  <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ asset('images/favicon.png')}}" type="image/x-icon">
+    <link rel="icon" href="{{ asset('images/favicon.png')}}" type="image/x-icon">
 
 
     <!-- Responsive -->
