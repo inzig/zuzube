@@ -31,6 +31,11 @@
 select.goog-te-combo {
     height: 35px;
 }
+.login-link-main {
+    padding: 10px;
+    border: 1px solid;
+    margin: 0px 30px;
+}
 </style>
 </head>
 
@@ -43,11 +48,23 @@ select.goog-te-combo {
  	
     <!-- Main Header-->
     <header class="main-header header-style-two">
-	<nav class="navbar navbar-light bg-light">
+	<nav class="navbar navbar-expand-sm  navbar-light bg-light">
 		<div class="navbar-header">
-		<a class="navbar-brand" href="{{ url('/')}}"><img class="logo-navbar" src="zuzube-logo.png" alt="" title=""></a>
+		<a class="navbar-brand" href="{{ url('/')}}"><img class="logo-navbar" src="zuzube-logo.png" alt="" title=""></a>		 
 		</div>
-		<div id="google_translate_element"></div>
+		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarResponsive">
+		<ul class="navbar-nav ml-auto">
+			<li class="nav-item">
+			<div class="" id="google_translate_element"></div>
+			</li>
+		</ul>
+		<a class="nav-link login-link-main" href="{{ url('login') }}">
+            <i class="fa fa-fw fa-sign-in"></i> login</a>
+		</div>                 
+        
 	</nav>
     	<!--Header-Upper-->
         <!-- <div class="header-upper">
