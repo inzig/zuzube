@@ -14,8 +14,8 @@
 <link href="css/masterslider/skins/default/style.css" rel="stylesheet">
 <link href="css/masterslider/style/ms-partialview.css" rel="stylesheet">
 
-<link rel="shortcut icon" href="zuzube-logo.png" type="image/x-icon">
-<link rel="icon" href="zuzube-logo.png" type="image/x-icon">
+<link rel="shortcut icon" href="{{ asset('images/resource/favicon.png') }}" type="image/x-icon">
+<link rel="icon" href="{{ asset('images/resource/favicon.png') }}" type="image/x-icon">
 
 
 <!-- Responsive -->
@@ -106,7 +106,32 @@ select.goog-te-combo {
 						</div>
 						<div class="image-box">
 							<div class="image">
-								<img src="images/main-slider/content-image-1.png" alt="" title="">
+								<img src="{{ asset('images/resource/content-image-2.png') }}" alt="" title="">
+							</div>
+						</div>
+					</div>
+                </div>
+            </div>
+			<!-- Slide1 -->
+            <div class="slide">
+                <div class="auto-container">
+					<div class="clearfix">
+						<div class="content">
+							<h1>ZUZUBE</h1>
+							<h2>Blockchain-based decentralized secure escort App and fastest-growing social network</h2>
+							<div class="text">Zuzubeis an escorting service that will combine screening, booking, 
+							and payment in a single platform. Zuzubeoffers an advanced companionship experience to a trusted customer 
+							and verified escorts who value discreet, secure exchanges.</div>
+							
+							<div class="link-box">
+								<a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a>
+								<a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a>
+							</div>
+							
+						</div>
+						<div class="image-box">
+							<div class="image">
+								<img src="{{ asset('images/resource/content-image-1.png') }}" alt="" title="">
 							</div>
 						</div>
 					</div>
@@ -131,8 +156,8 @@ select.goog-te-combo {
 					<!--Software Block-->
 					<div class="software-block">
 						<div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-							<div class="icon-box">
-								<span class="icon-box flaticon-line-chart"></span>
+							<div class="icon-box">								
+									<img src="{{ asset('images/resource/001.png') }}"  alt="">								
 							</div>
 							<h3><a href="#">Best Services</a></h3>
 							<div class="text">Escorting and sex-related services are assessed to be over $157B every year around the world, with at least $10B</div>
@@ -145,7 +170,7 @@ select.goog-te-combo {
 					<div class="software-block-two">
 						<div class="inner-box wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
 							<div class="icon-box">
-								<span class="icon-box flaticon-checked-1"></span>
+							<img src="{{ asset('images/resource/002.png') }}"  alt="">	
 							</div>
 							<h3><a href="#">Successful Date</a></h3>
 							<div class="text">Escorting is intrinsically an inefficient, divided market, given the various steps that should be executed by both the client and escort so as to ensure a successful date.</div>
@@ -158,7 +183,7 @@ select.goog-te-combo {
 					<div class="software-block">
 						<div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
 							<div class="icon-box">
-								<span class="icon-box flaticon-search"></span>
+							<img src="{{ asset('images/resource/004.png') }}"  alt="">	
 							</div>
 							<h3><a href="#">It is Super Easy</a></h3>
 							<div class="text">Since the Internet is much lucrative and easier.</div>
@@ -171,7 +196,7 @@ select.goog-te-combo {
 					<div class="software-block-two">
 						<div class="inner-box wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
 							<div class="icon-box">
-								<span class="icon-box flaticon-atom"></span>
+							<img src="{{ asset('images/resource/003.png') }}"  alt="">	
 							</div>
 							<h3><a href="#">It is Secure</a></h3>
 							<div class="text">Zuzube will publish another block on its Single-Issuer-Blockchain containing a tree of all the codes issued for completed dates that month.</div>
@@ -200,8 +225,8 @@ select.goog-te-combo {
                         <!--Tab Btns-->
                         <ul class="tab-btns tab-buttons clearfix">
                             <li data-tab="#prod-modern" class="tab-btn">Decentralized Blockchain-based platform</li>
-                            <li data-tab="#prod-friendly" class="tab-btn active-btn">Innovation</li>
-                            <li data-tab="#prod-face" class="tab-btn">The Zuzube Escorts</li>
+                            <li data-tab="#prod-friendly" class="tab-btn">Innovation</li>
+                            <li data-tab="#prod-face" class="tab-btn active-btn">The Zuzube Escorts</li>
                             <li data-tab="#prod-economical" class="tab-btn">It is very Economical</li>
                             <li data-tab="#prod-crypto" class="tab-btn">Pay with Crypto Currencies</li>
                         </ul>
@@ -230,7 +255,7 @@ select.goog-te-combo {
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="images/resource/technology.png" alt="">
+													<img src="{{ asset('images/resource/technology.jpg') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -239,7 +264,7 @@ select.goog-te-combo {
 							</div>
 							
 							<!--Tab-->
-                            <div class="tab active-tab" id="prod-friendly">
+                            <div class="tab" id="prod-friendly">
                                 <div class="content">
 									<div class="row clearfix">
 										<!--Content Column-->
@@ -257,7 +282,7 @@ select.goog-te-combo {
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="images/resource/technology.png" alt="">
+													<img src="{{ asset('images/resource/ZUZUBE_03s.png') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -266,7 +291,7 @@ select.goog-te-combo {
 							</div>
 							
 							<!--Tab-->
-                            <div class="tab" id="prod-face">
+                            <div class="tab active-tab" id="prod-face">
                                 <div class="content">
 									<div class="row clearfix">
 										<!--Content Column-->
@@ -284,7 +309,7 @@ select.goog-te-combo {
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="images/resource/technology.png" alt="">
+													<img src="{{ asset('images/resource/photomania.jpg') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -310,7 +335,7 @@ select.goog-te-combo {
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="images/resource/technology.png" alt="">
+													<img src="{{ asset('images/resource/ZUZUBE_10sss.png') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -336,7 +361,7 @@ select.goog-te-combo {
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="images/resource/technology.png" alt="">
+													<img src="{{ asset('images/resource/technology.jpg') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -388,7 +413,7 @@ select.goog-te-combo {
 						<div class="image-column col-lg-6 col-md-6 col-sm-12">
 							<div class="inner-column wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
 								<div class="image">
-									<img src="images/resource/feature-1.png" alt="">
+									<img src="{{ asset('images/resource/ZUZUBE_10.png') }}" alt="">
 								</div>
 							</div>
 						</div>
@@ -405,7 +430,7 @@ select.goog-te-combo {
 						<div class="image-column pull-left col-lg-6 col-md-6 col-sm-12">
 							<div class="inner-column wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
 								<div class="image">
-									<img src="images/resource/feature-2.png" alt="">
+									<img src="{{ asset('images/resource/ZUZUBE_07ss.png') }}" alt="">
 								</div>
 							</div>
 						</div>
@@ -445,7 +470,7 @@ select.goog-te-combo {
 						<div class="image-column col-lg-6 col-md-6 col-sm-12">
 							<div class="inner-column wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
 								<div class="image">
-									<img src="images/resource/feature-3.png" alt="">
+									<img src="{{ asset('images/resource/ZUZUBE_03.png') }}" alt="">
 								</div>
 							</div>
 						</div>
