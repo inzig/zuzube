@@ -244,7 +244,7 @@ select.goog-te-combo {
 										<div class="content-column col-lg-7 col-md-7 col-sm-12">
 											<div class="inner-column">
 												<div class="icon-box">
-													<span class="icon"><img src="images/icons/technology-icon.png" alt=""></span>
+													<span class="icon"><img src="{{ asset('images/resource/Blockchain-Icon.png') }}" alt=""></span>
 												</div>
 												<h3>Decentralized Blockchain-based platform</h3>
 												<div class="text">Zuzubeis a decentralized Blockchain-based platform. It offers a secure payment method for dating/escort services and fastest-growing social network.</div>
@@ -255,7 +255,7 @@ select.goog-te-combo {
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="{{ asset('images/resource/technology.jpg') }}" alt="">
+													<img src="{{ asset('images/resource/Blockchain.png') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -271,7 +271,7 @@ select.goog-te-combo {
 										<div class="content-column col-lg-7 col-md-7 col-sm-12">
 											<div class="inner-column">
 												<div class="icon-box">
-													<span class="icon"><img src="images/icons/technology-icon.png" alt=""></span>
+													<span class="icon"><img src="{{ asset('images/resource/Blockchain-Icon.png') }}" alt=""></span>
 												</div>
 												<h3>Innovation</h3>
 												<div class="text">As an advanced innovation, it is designed to connect clients to their desired escorts. </div>
@@ -298,7 +298,7 @@ select.goog-te-combo {
 										<div class="content-column col-lg-7 col-md-7 col-sm-12">
 											<div class="inner-column">
 												<div class="icon-box">
-													<span class="icon"><img src="images/icons/technology-icon.png" alt=""></span>
+													<span class="icon"><img src="{{ asset('images/resource/Blockchain-Icon.png') }}" alt=""></span>
 												</div>
 												<h3>The Zuzube Escorting</h3>
 												<div class="text">The Zuzube Escorting Platform integrates detailed search, booking, payment, and screening into a single, user-friendly interface. Users can be able to input detailed search, browse all the available escorts, and make “Instant Book” requests.</div>
@@ -324,7 +324,7 @@ select.goog-te-combo {
 										<div class="content-column col-lg-7 col-md-7 col-sm-12">
 											<div class="inner-column">
 												<div class="icon-box">
-													<span class="icon"><img src="images/icons/technology-icon.png" alt=""></span>
+													<span class="icon"><img src="{{ asset('images/resource/Blockchain-Icon.png') }}" alt=""></span>
 												</div>
 												<h3>It is very Economical</h3>
 												<div class="text">Booking fees of only 20% on Zuzube versus 40% with typical agencies.</div>
@@ -350,7 +350,7 @@ select.goog-te-combo {
 										<div class="content-column col-lg-7 col-md-7 col-sm-12">
 											<div class="inner-column">
 												<div class="icon-box">
-													<span class="icon"><img src="images/icons/technology-icon.png" alt=""></span>
+													<span class="icon"><img src="{{ asset('images/resource/Blockchain-Icon.png') }}" alt=""></span>
 												</div>
 												<h3>Pay with Crypto Currencies</h3>
 												<div class="text">The flexibility to justaccept payments in cryptocurrency, improving privacy and reducing scrutiny on transaction</div>
@@ -361,7 +361,7 @@ select.goog-te-combo {
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="{{ asset('images/resource/technology.jpg') }}" alt="">
+													<img src="{{ asset('images/resource/crypto.jpg') }}" alt="">
 												</div>
 											</div>
 										</div>
