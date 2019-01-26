@@ -36,6 +36,22 @@ select.goog-te-combo {
     border: 1px solid;
     margin: 0px 30px;
 }
+.goog-logo-link {
+   display:none !important;
+}
+
+.goog-te-gadget {
+   color: transparent !important;
+}
+iframe#:1.container{
+	display:none !important;
+}
+.goog-te-banner-frame{
+	display:none !important;
+}
+/* .goog-te-gadget .goog-te-combo {
+   color: blue !important;
+} */
 </style>
 </head>
 
@@ -43,7 +59,7 @@ select.goog-te-combo {
 	<nav class="navbar navbar-expand-sm  navbar-light bg-light">
 		<div class="navbar-header">
 		<a class="navbar-brand" href="{{ url('/')}}">
-		<img class="logo-navbar" src="zuzube-logo.png" alt="" title=""></a>		 
+		<img class="logo-navbar" src="" alt="" title=""></a>		 
 		</div>
 		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 		<span class="navbar-toggler-icon"></span>
@@ -92,10 +108,10 @@ select.goog-te-combo {
                 <div class="auto-container">
 					<div class="clearfix">
 						<div class="content">
-							<h1>ZUZUBE</h1>
+							<!-- <h1>ZUZUBE</h1> -->
 							<h2>Blockchain-based decentralized secure escort App and fastest-growing social network</h2>
-							<div class="text">Zuzubeis an escorting service that will combine screening, booking, 
-							and payment in a single platform. Zuzubeoffers an advanced companionship experience to a trusted customer 
+							<div class="text">Zuzube is an escorting service that will combine screening, booking, 
+							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
 							and verified escorts who value discreet, secure exchanges.</div>
 							
 							<div class="link-box">
@@ -117,10 +133,9 @@ select.goog-te-combo {
                 <div class="auto-container">
 					<div class="clearfix">
 						<div class="content">
-							<h1>ZUZUBE</h1>
-							<h2>Blockchain-based decentralized secure escort App and fastest-growing social network</h2>
-							<div class="text">Zuzubeis an escorting service that will combine screening, booking, 
-							and payment in a single platform. Zuzubeoffers an advanced companionship experience to a trusted customer 
+							<!-- <h1>ZUZUBE</h1> -->
+							<div class="text">Zuzube is an escorting service that will combine screening, booking, 
+							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
 							and verified escorts who value discreet, secure exchanges.</div>
 							
 							<div class="link-box">
