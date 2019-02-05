@@ -162,7 +162,17 @@ iframe#:1.container{
 			<div class="sec-title centered">
 				<h2>ZUZUBE</h2>
 				<div class="separater"></div>
-				<!-- <div class="text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the <br>industry's standard dummy text ever since the 1500s</div> -->
+				<div class="text">
+					Zuzube is an escorting service that will combine screening, booking, and payment in
+					a single platform. Zuzube offers an advanced companionship experience to a trusted
+					customer and verified escorts who value discreet, secure exchanges. Unlike other competitors,
+					Zuzube offers a single meeting place for screening and arranging a date. This enables
+					us to offer security, comfort, peace of mind, and reduced costs... 
+				</div>
+				<div class="text">
+				<a href="{{ url('/') }}/files/zuzubewhitepaper.pdf" class="theme-btn btn-style-seven"
+				download> Download the Whitepaper </a>
+				</div>
 			</div>
 			
 			<div class="inner-container clearfix">
@@ -513,15 +523,20 @@ iframe#:1.container{
 				<div class="carousel-outer">
 					<div class="ms-partialview-template" id="partial-view-1">
 						<div class="master-slider ms-skin-default" id="master-slider">
-							<div class="ms-slide">
-								
+							<div class="ms-slide">								
 								<div class="testimonial-block-three">
 									<div class="inner-box">
+										<a target="_blank" href="https://bitcointalk.org/index.php?topic=5106411">
 										<div class="image">
-											<img src="images/resource/author-6.png" alt=""/>
+											<img class="social-media-logo" src="{{ asset('img/bticointalk.png') }}" alt=""/>
 										</div>
-										<h3>Montu Same</h3>
-										<div class="text">I am absolutely satisfied with the project we have done with The App Solutions team. Professional developers, decent project manager and passionate marketing team helped Shopbeam to win ...</div>
+										<h3>Follow us on Bitcointalk</h3>
+										</a>
+										<div class="text">
+										<!-- <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/yHFlQo076g">https://t.co/yHFlQo076g</a> <a href="https://t.co/l4di0ofnT6">pic.twitter.com/l4di0ofnT6</a></p>&mdash; zuzube (@zuzube2) <a href="https://twitter.com/zuzube2/status/1092150049516199936?ref_src=twsrc%5Etfw">February 3, 2019</a></blockquote>
+											<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+										</div>
 										<div class="rating">
 											<span class="fa fa-star"></span>
 											<span class="fa fa-star"></span>
@@ -533,16 +548,16 @@ iframe#:1.container{
 								</div>
 								
 							</div>
-							
 							<div class="ms-slide">
 								
 								<div class="testimonial-block-three">
 									<div class="inner-box">
+										<a target="_blank" href="https://twitter.com/zuzube2">
 										<div class="image">
-											<img src="images/resource/author-6.png" alt=""/>
+											<img class="social-media-logo" src="{{ asset('img/twitter.png') }}" alt=""/>
 										</div>
-										<h3>Montu Same</h3>
-										<div class="text">I am absolutely satisfied with the project we have done with The App Solutions team. Professional developers, decent project manager and passionate marketing team helped Shopbeam to win ...</div>
+										<h3>Follow us on Twitter</h3></a>
+										<div class="text"></div>
 										<div class="rating">
 											<span class="fa fa-star"></span>
 											<span class="fa fa-star"></span>
@@ -554,16 +569,19 @@ iframe#:1.container{
 								</div>
 								
 							</div>
-							
+
 							<div class="ms-slide">
 								
 								<div class="testimonial-block-three">
 									<div class="inner-box">
+										<a target="_blank" href="https://web.facebook.com/zuzu.be.923?_rdc=1&_rdr">
 										<div class="image">
-											<img src="images/resource/author-6.png" alt=""/>
+											<img class="social-media-logo" src="{{ asset('img/facebook.png') }}" alt=""/>
 										</div>
-										<h3>Montu Same</h3>
-										<div class="text">I am absolutely satisfied with the project we have done with The App Solutions team. Professional developers, decent project manager and passionate marketing team helped Shopbeam to win ...</div>
+										<h3>Follow us on Facebook</h3></a>
+										<div class="text">
+										<!-- <iframe src="https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fzuzu.be.923%2Fposts%2F113897989718720&width=500" width="500" height="596" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
+										</div>
 										<div class="rating">
 											<span class="fa fa-star"></span>
 											<span class="fa fa-star"></span>

@@ -132,7 +132,7 @@ a{
 	cursor:pointer;
 	color:#d90118;
 }
-
+.social-media-logo { width: 106%;	}
 button,
 a:hover,a:focus,a:visited{
 	text-decoration:none;
