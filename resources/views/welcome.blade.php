@@ -170,8 +170,8 @@ iframe#:1.container{
 					us to offer security, comfort, peace of mind, and reduced costs... 
 				</div>
 				<div class="text">
-				<a href="{{ url('/') }}/files/zuzubewhitepaper.pdf" class="theme-btn btn-style-seven"
-				download> Download the Whitepaper </a>
+				<a target="_blank" href="{{ url('/') }}/files/zuzubewhitepaper.pdf" class="theme-btn btn-style-seven"
+				> Download the Whitepaper </a>
 				</div>
 			</div>
 			
