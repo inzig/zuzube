@@ -112,10 +112,9 @@ iframe#:1.container{
 							<h2>Blockchain-based decentralized secure escort App and fastest-growing social network</h2>
 							<div class="text">Zuzube is an escorting service that will combine screening, booking, 
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
-							and verified escorts who value discreet, secure exchanges.</div>
-							
+							and verified escorts who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<a href="{{ url('/') }}/files/bd94f4db-482f-466a-9495-1076dc1d23b8.apk"  dowload
+								<a href="{{ url('/') }}/files/bd94f4db-482f-466a-9495-1076dc1d23b8.apk" 
 								class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
 								<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 								<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
@@ -136,13 +135,13 @@ iframe#:1.container{
 					<div class="clearfix">
 						<div class="content">
 							<!-- <h1>ZUZUBE</h1> -->
+							<h2>Blockchain-based decentralized secure escort App and fastest-growing social network</h2>
 							<div class="text">Zuzube is an escorting service that will combine screening, booking, 
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
-							and verified escorts who value discreet, secure exchanges.</div>
-							
+							and verified escorts who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<a href="{{ url('/') }}/files/AppZuzube.zip"  dowload
-								class="theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
+								<a href="{{ url('/') }}/files/AppZuzube.zip" 
+								class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
 								<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 								<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
 							</div>
@@ -619,7 +618,7 @@ iframe#:1.container{
 						</div>
 						<div class="link-box">
 							<a href="{{ url('/') }}/files/bd94f4db-482f-466a-9495-1076dc1d23b8.apk"
-							class="theme-btn btn-style-seven" target="_blank">DOWNLOAD ZUZUBE ANDROID APP</a>
+							class="btn-link-app theme-btn btn-style-seven" target="_blank">DOWNLOAD ZUZUBE ANDROID APP</a>
 							<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 							<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
 						</div>

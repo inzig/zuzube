@@ -203,10 +203,10 @@ img{
 }
 
 .btn-link-app{
-	background: #d90118;
+	background: #d90118 !important;
     border-color: #d90118;
-	color: #ffffff;
-	font-weight: bolder;
+	color: #ffffff !important;
+	font-weight: bolder !important;
 }
 
 /*** 
