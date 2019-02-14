@@ -115,8 +115,8 @@ iframe#:1.container{
 							and verified escorts who value discreet, secure exchanges.</div>
 							
 							<div class="link-box">
-								<a href="{{ url('/') }}/files/AppZuzube.zip"  dowload
-								class="theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
+								<a href="{{ url('/') }}/files/bd94f4db-482f-466a-9495-1076dc1d23b8.apk"  dowload
+								class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
 								<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 								<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
 							</div>

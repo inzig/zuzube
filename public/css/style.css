@@ -202,6 +202,13 @@ img{
 	text-align:center;	
 }
 
+.btn-link-app{
+	background: #d90118;
+    border-color: #d90118;
+	color: #ffffff;
+	font-weight: bolder;
+}
+
 /*** 
 
 ====================================================================
