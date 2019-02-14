@@ -617,10 +617,16 @@ iframe#:1.container{
 							<div class="separater"></div>
 							<div class="text">Blockchain-based decentralized secure premium escort App and fastest-growing social network</div>
 						</div>
-						<div class="btns-box">
+						<div class="link-box">
+							<a href="{{ url('/') }}/files/AppZuzube.zip"
+							class="theme-btn btn-style-seven" target="_blank">DOWNLOAD ZUZUBE ANDROID APP</a>
+							<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
+							<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
+						</div>
+						<!-- <div class="btns-box">
 							<a href="#" class="theme-btn wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><img src="images/icons/app-btn.png" alt="" /></a>
 							<a href="#" class="theme-btn wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms"><img src="images/icons/google-btn.png" alt="" /></a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 				<div class="image-column col-lg-6 col-md-12 col-sm-12">
