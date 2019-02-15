@@ -413,103 +413,128 @@ iframe#:1.container{
 
 
 <section class="feature-section" id="feature">
-		<div class="auto-container">
-			
-			<!--Sec Title-->
-			<div class="sec-title centered">
-				<h2>Escorts</h2>
-				<div class="separater"></div>
-				<div class="text">Zuzube is the premier choice for escorts to conduct business. We provide:</div>
-			</div>
-			
-			<!--Feature Block Three-->
-			<div class="feature-block-three">
-				<div class="inner-box">
-					<div class="row clearfix">
-						<!--Content Column-->
-						<div class="content-column col-lg-6 col-md-6 col-sm-12">
-							<div class="inner-column">
-								<div class="sec-title">
-									<h2>Integration</h2>
-									<div class="separater"></div>
-								</div>
-								<div class="text">One platform that integrates shopper screening, booking, payment, and advertising.</div>
-								<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
-							</div>
-						</div>
-						<!--Image Column-->
-						<div class="image-column col-lg-6 col-md-6 col-sm-12">
-							<div class="inner-column wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
-								<div class="image">
-									<img src="{{ asset('images/resource/ZUZUBE_10.png') }}" alt="">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			
-			<!--Feature Block Three-->
-			<div class="feature-block-three alternate">
-				<div class="inner-box">
-					<div class="row clearfix">
-						
-						<!--Image Column-->
-						<div class="image-column pull-left col-lg-6 col-md-6 col-sm-12">
-							<div class="inner-column wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
-								<div class="image">
-									<img src="{{ asset('images/resource/ZUZUBE_07ss.png') }}" alt="">
-								</div>
-							</div>
-						</div>
-						
-						<!--Content Column-->
-						<div class="content-column pull-right col-lg-6 col-md-6 col-sm-12">
-							<div class="inner-column">
-								<div class="sec-title">
-									<h2>Super Fast Matches</h2>
-									<div class="separater"></div>
-								</div>
-								<div class="text">We tend to cut back the price of client acquisition and reduce the time required to screen clients by 70%.</div>
-								<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
-							</div>
-						</div>
-						
-					</div>
-				</div>
-			</div>
-			
-			<!--Feature Block Three-->
-			<div class="feature-block-three">
-				<div class="inner-box">
-					<div class="row clearfix">
-						<!--Content Column-->
-						<div class="content-column col-lg-6 col-md-6 col-sm-12">
-							<div class="inner-column">
-								<div class="sec-title">
-									<h2>Visibility</h2>
-									<div class="separater"></div>
-								</div>
-								<div class="text">Inflated visibility to purchasers thanks to our giant advertising budget and reach across several online and offline platforms.</div>
-								<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
-							</div>
-						</div>
-						<!--Image Column-->
-						<div class="image-column col-lg-6 col-md-6 col-sm-12">
-							<div class="inner-column wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
-								<div class="image">
-									<img src="{{ asset('images/resource/ZUZUBE_03.png') }}" alt="">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			
+	<div class="auto-container">
+		
+		<!--Sec Title-->
+		<div class="sec-title centered">
+			<h2>Escorts</h2>
+			<div class="separater"></div>
+			<div class="text">Zuzube is the premier choice for escorts to conduct business. We provide:</div>
 		</div>
-	</section>
+		
+		<!--Feature Block Three-->
+		<div class="feature-block-three">
+			<div class="inner-box">
+				<div class="row clearfix">
+					<!--Content Column-->
+					<div class="content-column col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-column">
+							<div class="sec-title">
+								<h2>Integration</h2>
+								<div class="separater"></div>
+							</div>
+							<div class="text">One platform that integrates shopper screening, booking, payment, and advertising.</div>
+							<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
+						</div>
+					</div>
+					<!--Image Column-->
+					<div class="image-column col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-column wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+							<div class="image">
+								<img src="{{ asset('images/resource/ZUZUBE_10.png') }}" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!--Feature Block Three-->
+		<div class="feature-block-three alternate">
+			<div class="inner-box">
+				<div class="row clearfix">
+					
+					<!--Image Column-->
+					<div class="image-column pull-left col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-column wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
+							<div class="image">
+								<img src="{{ asset('images/resource/ZUZUBE_07ss.png') }}" alt="">
+							</div>
+						</div>
+					</div>
+					
+					<!--Content Column-->
+					<div class="content-column pull-right col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-column">
+							<div class="sec-title">
+								<h2>Super Fast Matches</h2>
+								<div class="separater"></div>
+							</div>
+							<div class="text">We tend to cut back the price of client acquisition and reduce the time required to screen clients by 70%.</div>
+							<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		
+		<!--Feature Block Three-->
+		<div class="feature-block-three">
+			<div class="inner-box">
+				<div class="row clearfix">
+					<!--Content Column-->
+					<div class="content-column col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-column">
+							<div class="sec-title">
+								<h2>Visibility</h2>
+								<div class="separater"></div>
+							</div>
+							<div class="text">Inflated visibility to purchasers thanks to our giant advertising budget and reach across several online and offline platforms.</div>
+							<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
+						</div>
+					</div>
+					<!--Image Column-->
+					<div class="image-column col-lg-6 col-md-6 col-sm-12">
+						<div class="inner-column wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
+							<div class="image">
+								<img src="{{ asset('images/resource/ZUZUBE_03.png') }}" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</section>
 
-
+<section class="software-section">
+	<div class="auto-container">		
+		<div class="sec-title centered">
+			<h2>Now trading at</h2>
+			<div class="separater"></div>
+		</div>
+		
+		<div class="container">
+			<div class="row">		
+				<div class="col-6">
+					<a href="https://p2pb2b.io/" target="_blank" >
+						<img src="{{ asset('images/p2p.svg') }}" alt="" 
+						/>
+					</a>
+				</div>
+				<div class="col-6">
+					<a href="https://exrates.me/dashboard" target="_blank" >
+						<img src="{{ asset('images/exrates.png') }}" alt="" 
+						/>
+					</a>
+				</div>
+			</div>
+		</div>
+			
+	</div>
+</section>
 
 
 	<!--Testimonial Section Two-->
