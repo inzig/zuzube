@@ -628,7 +628,7 @@ iframe#:1.container{
 			</div>
 		</div>
 	</section>
-	
+
 <section class="software-section">
 	<div class="auto-container">		
 		<div class="sec-title centered">
@@ -638,7 +638,7 @@ iframe#:1.container{
 		
 		<div class="container">
 			<div class="row">		
-				<div class="col-6">
+				<div class="col">
 					<a href="https://p2pb2b.io/" target="_blank" >
 						<img src="{{ asset('images/coincodex.png') }}" alt="" 
 						/>
