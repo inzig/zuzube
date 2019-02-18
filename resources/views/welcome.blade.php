@@ -650,6 +650,7 @@ iframe#:1.container{
 			
 	</div>
 </section>
+<script src="https://widget.coincodex.com/include.js?type=1&ticker=bitcoin&chartLineColor=1f79e1&chartFillColor=e8f1fc&backgroundColor=ffffff&textColor1=1e2e42&textColor2=617283&linkColor=4a90e2&borderColor=dddddd&history_days=7"></script>
 	<section class="app-section">
 		<div class="auto-container">
 			<div class="row clearfix">
