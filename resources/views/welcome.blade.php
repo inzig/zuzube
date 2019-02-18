@@ -536,28 +536,6 @@ iframe#:1.container{
 	</div>
 </section>
 
-<section class="software-section">
-	<div class="auto-container">		
-		<div class="sec-title centered">
-			<h2>Partners</h2>
-			<div class="separater"></div>
-		</div>
-		
-		<div class="container">
-			<div class="row">		
-				<div class="col-6">
-					<a href="https://p2pb2b.io/" target="_blank" >
-						<img src="{{ asset('images/coincodex.png') }}" alt="" 
-						/>
-					</a>
-				</div>
-				
-			</div>
-		</div>
-			
-	</div>
-</section>
-
 
 	<!--Testimonial Section Two-->
 	<section class="testimonial-section-two" id="testimonial">
@@ -651,6 +629,27 @@ iframe#:1.container{
 		</div>
 	</section>
 	
+<section class="software-section">
+	<div class="auto-container">		
+		<div class="sec-title centered">
+			<h2>Partners</h2>
+			<div class="separater"></div>
+		</div>
+		
+		<div class="container">
+			<div class="row">		
+				<div class="col-6">
+					<a href="https://p2pb2b.io/" target="_blank" >
+						<img src="{{ asset('images/coincodex.png') }}" alt="" 
+						/>
+					</a>
+				</div>
+				
+			</div>
+		</div>
+			
+	</div>
+</section>
 	<section class="app-section">
 		<div class="auto-container">
 			<div class="row clearfix">
