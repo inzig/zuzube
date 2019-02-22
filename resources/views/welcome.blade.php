@@ -114,7 +114,7 @@ iframe#:1.container{
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
 							and verified escorts who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<a href="{{ url('/') }}/files/bd94f4db-482f-466a-9495-1076dc1d23b8.apk" 
+								<a href="{{ url('/') }}/files/chat.Zuzube.apk" 
 								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
 								<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 								<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
@@ -140,7 +140,7 @@ iframe#:1.container{
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
 							and verified escorts who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<a href="{{ url('/') }}/files/AppZuzube.zip" 
+								<a href="{{ url('/') }}/files/chat.Zuzube.apk" 
 								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
 								<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 								<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
@@ -664,7 +664,7 @@ iframe#:1.container{
 							<div class="text">Blockchain-based decentralized secure premium escort App and fastest-growing social network</div>
 						</div>
 						<div class="link-box">
-							<a href="{{ url('/') }}/files/bd94f4db-482f-466a-9495-1076dc1d23b8.apk"
+							<a href="{{ url('/') }}/files/chat.Zuzube.apk"
 							class="btn-link-app theme-btn btn-style-seven" target="_blank">DOWNLOAD ZUZUBE ANDROID APP</a>
 							<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 							<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
