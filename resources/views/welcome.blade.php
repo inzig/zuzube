@@ -518,15 +518,27 @@ iframe#:1.container{
 		
 		<div class="container">
 			<div class="row">		
-				<div class="col-6">
+				<div class="col-3">
 					<a href="https://p2pb2b.io/" target="_blank" >
 						<img src="{{ asset('images/p2p.svg') }}" alt="" 
 						/>
 					</a>
 				</div>
-				<div class="col-6">
+				<div class="col-3">
 					<a href="https://exrates.me/dashboard" target="_blank" >
 						<img src="{{ asset('images/exrates.png') }}" alt="" 
+						/>
+					</a>
+				</div>
+				<div class="col-3">
+					<a href="https://exrates.me/dashboard" target="_blank" >
+						<img src="{{ asset('images/crex24.png') }}" alt="" 
+						/>
+					</a>
+				</div>
+				<div class="col-3">
+					<a href="https://exrates.me/dashboard" target="_blank" >
+						<img src="{{ asset('images/bitebtc.jpg') }}" alt="" style="height: 100px;"
 						/>
 					</a>
 				</div>
@@ -597,7 +609,27 @@ iframe#:1.container{
 								</div>
 								
 							</div>
-
+							<div class="ms-slide">
+								
+								<div class="testimonial-block-three">
+									<div class="inner-box">
+										<a target="_blank" href="https://www.instagram.com/zuzube97">
+										<div class="image">
+											<img class="social-media-logo" src="{{ asset('img/instagram-circle.png') }}" alt=""/>
+										</div>
+										<h3>Follow us on Instagram</h3></a>
+										<div class="text"></div>
+										<div class="rating">
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+											<span class="fa fa-star"></span>
+										</div>
+									</div>
+								</div>
+								
+							</div>
 							<div class="ms-slide">
 								
 								<div class="testimonial-block-three">
@@ -638,9 +670,15 @@ iframe#:1.container{
 		
 		<div class="container">
 			<div class="row">		
-				<div class="col">
+				<div class="col-6">
 					<a href="https://p2pb2b.io/" target="_blank" >
 						<img src="{{ asset('images/coincodex.png') }}" alt="" 
+						/>
+					</a>
+				</div>
+				<div class="col-6">
+					<a href="https://www.coingecko.com/en/coins/zuzubecoin?utm_content=zuzubecoin&utm_medium=search_coin&utm_source=coingecko" target="_blank" >
+						<img src="{{ asset('images/coingecko.png') }}" alt="" 
 						/>
 					</a>
 				</div>
