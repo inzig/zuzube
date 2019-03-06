@@ -531,13 +531,13 @@ iframe#:1.container{
 					</a>
 				</div>
 				<div class="col-3">
-					<a href="https://exrates.me/dashboard" target="_blank" >
+					<a href="https://crex24.com/exchange/ZUBE-BTC" target="_blank" >
 						<img src="{{ asset('images/crex24.png') }}" alt="" 
 						/>
 					</a>
 				</div>
 				<div class="col-3">
-					<a href="https://exrates.me/dashboard" target="_blank" >
+					<a href="https://bitebtc.com/trade/zube_btc" target="_blank" >
 						<img src="{{ asset('images/bitebtc.jpg') }}" alt="" style="height: 100px;"
 						/>
 					</a>
