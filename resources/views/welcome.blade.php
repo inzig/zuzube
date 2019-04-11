@@ -113,8 +113,8 @@ iframe#:1.container{
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
 							and who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<a href="#" 
-								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>								
+								<!-- <a href="#" 
+								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>								 -->
 							</div>
 							
 						</div>
@@ -137,8 +137,8 @@ iframe#:1.container{
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
 							and who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<a href="#" 
-								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>								
+								<!-- <a href="#" 
+								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>								 -->
 							</div>
 							
 						</div>
@@ -161,15 +161,15 @@ iframe#:1.container{
 				<h2>ZUZUBE</h2>
 				<div class="separater"></div>
 				<div class="text">
-					Zuzube is andating App that will combine screening, booking, and payment in
+					Zuzube is a Dating App that will combine screening, booking, and payment in
 					a single platform. Zuzube offers an advanced companionship experience to a trusted
 					customer and who value discreet, secure exchanges. Unlike other competitors,
 					Zuzube offers a single meeting place for screening and arranging a date. This enables
 					us to offer security, comfort, peace of mind, and reduced costs... 
 				</div>
 				<div class="text">
-				<a target="_blank" href="#" class="theme-btn btn-style-seven"
-				> Download the Whitepaper </a>
+				<!-- <a target="_blank" href="#" class="theme-btn btn-style-seven"
+				> Download the Whitepaper </a> -->
 				</div>
 			</div>
 			
@@ -182,7 +182,7 @@ iframe#:1.container{
 									<!-- <img src="{{ asset('images/resource/001.png') }}"  alt="">								 -->
 							</div>
 							<h3><a href="#">Best Services</a></h3>
-							<div class="text">Dating services are assessed to be over best over the world.</div>
+							<div class="text">Dating services are assessed to be over $500 billion.</div>
 						</div>
 					</div>
 				</div>
@@ -549,7 +549,8 @@ iframe#:1.container{
 				<div class="carousel-outer">
 					<div class="ms-partialview-template" id="partial-view-1">
 						<div class="master-slider ms-skin-default" id="master-slider">
-							<div class="ms-slide">								
+							
+							<!-- <div class="ms-slide">								
 								<div class="testimonial-block-three">
 									<div class="inner-box">
 										<a target="_blank" href="https://bitcointalk.org/index.php?topic=5106411">
@@ -559,9 +560,7 @@ iframe#:1.container{
 										<h3>Follow us on Bitcointalk</h3>
 										</a>
 										<div class="text">
-										<!-- <blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://t.co/yHFlQo076g">https://t.co/yHFlQo076g</a> <a href="https://t.co/l4di0ofnT6">pic.twitter.com/l4di0ofnT6</a></p>&mdash; zuzube (@zuzube2) <a href="https://twitter.com/zuzube2/status/1092150049516199936?ref_src=twsrc%5Etfw">February 3, 2019</a></blockquote>
-											<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-
+										
 										</div>
 										<div class="rating">
 											<span class="fa fa-star"></span>
@@ -571,11 +570,10 @@ iframe#:1.container{
 											<span class="fa fa-star"></span>
 										</div>
 									</div>
-								</div>
-								
-							</div>
-							<div class="ms-slide">
-								
+								</div>								
+							</div> -->
+
+							<div class="ms-slide">								
 								<div class="testimonial-block-three">
 									<div class="inner-box">
 										<a target="_blank" href="https://twitter.com/zuzube2">
@@ -687,8 +685,8 @@ iframe#:1.container{
 							<div class="text">Blockchain-based decentralized secure premium Dating App and fastest-growing social network</div>
 						</div>
 						<div class="link-box">
-							<a href="#"
-							class="btn-link-app theme-btn btn-style-seven" target="_blank">DOWNLOAD ZUZUBE ANDROID APP</a>
+							<!-- <a href="#"
+							class="btn-link-app theme-btn btn-style-seven" target="_blank">DOWNLOAD ZUZUBE ANDROID APP</a> -->
 							<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 							<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
 						</div>
