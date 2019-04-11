@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 <meta charset="utf-8">
 <title>ZUZUBE</title>
@@ -109,15 +108,13 @@ iframe#:1.container{
 					<div class="clearfix">
 						<div class="content">
 							<!-- <h1>ZUZUBE</h1> -->
-							<h2>Blockchain-based decentralized secure escort App and fastest-growing social network</h2>
-							<div class="text">Zuzube is an escorting service that will combine screening, booking, 
+							<h2>Blockchain-based decentralized secure App and fastest-growing social network</h2>
+							<div class="text">Zuzube is an dating app that will combine screening, booking, 
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
-							and verified escorts who value discreet, secure exchanges.</div>							
+							and who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<a href="{{ url('/') }}/files/chat.Zuzube.apk" 
-								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
-								<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
-								<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
+								<a href="#" 
+								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>								
 							</div>
 							
 						</div>
@@ -135,15 +132,13 @@ iframe#:1.container{
 					<div class="clearfix">
 						<div class="content">
 							<!-- <h1>ZUZUBE</h1> -->
-							<h2>Blockchain-based decentralized secure escort App and fastest-growing social network</h2>
-							<div class="text">Zuzube is an escorting service that will combine screening, booking, 
+							<h2>Blockchain-based decentralized secure App and fastest-growing social network</h2>
+							<div class="text">Zuzube is an dating app that will combine screening, booking, 
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
-							and verified escorts who value discreet, secure exchanges.</div>							
+							and who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<a href="{{ url('/') }}/files/chat.Zuzube.apk" 
-								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>
-								<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
-								<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
+								<a href="#" 
+								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>								
 							</div>
 							
 						</div>
@@ -166,14 +161,14 @@ iframe#:1.container{
 				<h2>ZUZUBE</h2>
 				<div class="separater"></div>
 				<div class="text">
-					Zuzube is an escorting service that will combine screening, booking, and payment in
+					Zuzube is andating App that will combine screening, booking, and payment in
 					a single platform. Zuzube offers an advanced companionship experience to a trusted
-					customer and verified escorts who value discreet, secure exchanges. Unlike other competitors,
+					customer and who value discreet, secure exchanges. Unlike other competitors,
 					Zuzube offers a single meeting place for screening and arranging a date. This enables
 					us to offer security, comfort, peace of mind, and reduced costs... 
 				</div>
 				<div class="text">
-				<a target="_blank" href="{{ url('/') }}/files/zuzubewhitepaper.pdf" class="theme-btn btn-style-seven"
+				<a target="_blank" href="#" class="theme-btn btn-style-seven"
 				> Download the Whitepaper </a>
 				</div>
 			</div>
@@ -181,14 +176,13 @@ iframe#:1.container{
 			<div class="inner-container clearfix">
 			
 				<div class="outer-row clearfix">
-					<!--Software Block-->
 					<div class="software-block">
 						<div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
 							<div class="icon-box">								
-									<img src="{{ asset('images/resource/001.png') }}"  alt="">								
+									<!-- <img src="{{ asset('images/resource/001.png') }}"  alt="">								 -->
 							</div>
 							<h3><a href="#">Best Services</a></h3>
-							<div class="text">Escorting and sex-related services are assessed to be over $157B every year around the world, with at least $10B</div>
+							<div class="text">Dating services are assessed to be over best over the world.</div>
 						</div>
 					</div>
 				</div>
@@ -198,10 +192,10 @@ iframe#:1.container{
 					<div class="software-block-two">
 						<div class="inner-box wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
 							<div class="icon-box">
-							<img src="{{ asset('images/resource/002.png') }}"  alt="">	
+							<!-- <img src="{{ asset('images/resource/002.png') }}"  alt="">	 -->
 							</div>
 							<h3><a href="#">Successful Date</a></h3>
-							<div class="text">Escorting is intrinsically an inefficient, divided market, given the various steps that should be executed by both the client and escort so as to ensure a successful date.</div>
+							<div class="text">Daing App is intrinsically an inefficient, divided market, given the various steps that should be executed by both the partners to ensure a successful date.</div>
 						</div>
 					</div>
 				</div>
@@ -211,7 +205,7 @@ iframe#:1.container{
 					<div class="software-block">
 						<div class="inner-box wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
 							<div class="icon-box">
-							<img src="{{ asset('images/resource/004.png') }}"  alt="">	
+							<!-- <img src="{{ asset('images/resource/004.png') }}"  alt="">	 -->
 							</div>
 							<h3><a href="#">It is Super Easy</a></h3>
 							<div class="text">Since the Internet is much lucrative and easier.</div>
@@ -224,7 +218,7 @@ iframe#:1.container{
 					<div class="software-block-two">
 						<div class="inner-box wow fadeInRight animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInRight;">
 							<div class="icon-box">
-							<img src="{{ asset('images/resource/003.png') }}"  alt="">	
+							<!-- <img src="{{ asset('images/resource/003.png') }}"  alt="">	 -->
 							</div>
 							<h3><a href="#">It is Secure</a></h3>
 							<div class="text">Zuzube will publish another block on its Single-Issuer-Blockchain containing a tree of all the codes issued for completed dates that month.</div>
@@ -254,7 +248,7 @@ iframe#:1.container{
                         <ul class="tab-btns tab-buttons clearfix">
                             <li data-tab="#prod-modern" class="tab-btn">Decentralized Blockchain-based platform</li>
                             <li data-tab="#prod-friendly" class="tab-btn">Innovation</li>
-                            <li data-tab="#prod-face" class="tab-btn active-btn">The Zuzube Escorts</li>
+                            <li data-tab="#prod-face" class="tab-btn active-btn">The Zuzube Dates</li>
                             <li data-tab="#prod-economical" class="tab-btn">It is very Economical</li>
                             <li data-tab="#prod-crypto" class="tab-btn">Pay with Crypto Currencies</li>
                         </ul>
@@ -275,7 +269,7 @@ iframe#:1.container{
 													<span class="icon"><img src="{{ asset('images/resource/Blockchain-Icon.png') }}" alt=""></span>
 												</div>
 												<h3>Decentralized Blockchain-based platform</h3>
-												<div class="text">Zuzubeis a decentralized Blockchain-based platform. It offers a secure payment method for dating/escort services and fastest-growing social network.</div>
+												<div class="text">Zuzubeis a decentralized Blockchain-based platform. It offers a secure dating services and fastest-growing social network.</div>
 												<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
 											</div>
 										</div>
@@ -302,7 +296,7 @@ iframe#:1.container{
 													<span class="icon"><img src="{{ asset('images/resource/Blockchain-Icon.png') }}" alt=""></span>
 												</div>
 												<h3>Innovation</h3>
-												<div class="text">As an advanced innovation, it is designed to connect clients to their desired escorts. </div>
+												<div class="text">As an advanced innovation, it is designed to connect seekers to their desired partner. </div>
 												<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
 											</div>
 										</div>
@@ -310,7 +304,7 @@ iframe#:1.container{
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="{{ asset('images/resource/ZUZUBE_03s.png') }}" alt="">
+													<img src="{{ asset('images/resource/crypto.jpg') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -328,8 +322,8 @@ iframe#:1.container{
 												<div class="icon-box">
 													<span class="icon"><img src="{{ asset('images/resource/Blockchain-Icon.png') }}" alt=""></span>
 												</div>
-												<h3>The Zuzube Escorting</h3>
-												<div class="text">The Zuzube Escorting Platform integrates detailed search, booking, payment, and screening into a single, user-friendly interface. Users can be able to input detailed search, browse all the available escorts, and make “Instant Book” requests.</div>
+												<h3>The Zuzube Dating</h3>
+												<div class="text">The Zuzube Dating Platform integrates detailed search, booking, payment, and screening into a single, user-friendly interface. Users can be able to input detailed search, browse all the available partners, and make “Make a date” requests.</div>
 												<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
 											</div>
 										</div>
@@ -337,7 +331,7 @@ iframe#:1.container{
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="{{ asset('images/resource/photomania.jpg') }}" alt="">
+													<img src="{{ asset('images/resource/crypto.jpg') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -363,7 +357,7 @@ iframe#:1.container{
 										<div class="image-column col-lg-5 col-md-5 col-sm-12">
 											<div class="inner-column">
 												<div class="image">
-													<img src="{{ asset('images/resource/ZUZUBE_10sss.png') }}" alt="">
+													<img src="{{ asset('images/resource/crypto.jpg') }}" alt="">
 												</div>
 											</div>
 										</div>
@@ -404,22 +398,14 @@ iframe#:1.container{
 		</div>
 	</section>
 
-
-
-
-
-
-
-
-
 <section class="feature-section" id="feature">
 	<div class="auto-container">
 		
 		<!--Sec Title-->
 		<div class="sec-title centered">
-			<h2>Escorts</h2>
+			<h2>Dates</h2>
 			<div class="separater"></div>
-			<div class="text">Zuzube is the premier choice for escorts to conduct business. We provide:</div>
+			<div class="text">Zuzube is the premier choice for dating to conduct business. We provide:</div>
 		</div>
 		
 		<!--Feature Block Three-->
@@ -458,7 +444,7 @@ iframe#:1.container{
 					<div class="image-column pull-left col-lg-6 col-md-6 col-sm-12">
 						<div class="inner-column wow fadeInLeft animated" data-wow-delay="0ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInLeft;">
 							<div class="image">
-								<img src="{{ asset('images/resource/ZUZUBE_07ss.png') }}" alt="">
+								<img src="{{ asset('images/resource/ZUZUBE_03.png') }}" alt="">
 							</div>
 						</div>
 					</div>
@@ -471,7 +457,7 @@ iframe#:1.container{
 								<div class="separater"></div>
 							</div>
 							<div class="text">We tend to cut back the price of client acquisition and reduce the time required to screen clients by 70%.</div>
-							<!-- <a href="#" class="theme-btn btn-style-seven">See More</a> -->
+							
 						</div>
 					</div>
 					
@@ -630,7 +616,7 @@ iframe#:1.container{
 								</div>
 								
 							</div>
-							<div class="ms-slide">
+							<!-- <div class="ms-slide">
 								
 								<div class="testimonial-block-three">
 									<div class="inner-box">
@@ -640,7 +626,6 @@ iframe#:1.container{
 										</div>
 										<h3>Follow us on Facebook</h3></a>
 										<div class="text">
-										<!-- <iframe src="https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fzuzu.be.923%2Fposts%2F113897989718720&width=500" width="500" height="596" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
 										</div>
 										<div class="rating">
 											<span class="fa fa-star"></span>
@@ -652,7 +637,7 @@ iframe#:1.container{
 									</div>
 								</div>
 								
-							</div>
+							</div> -->
 							
 						</div>
 					</div>
@@ -699,10 +684,10 @@ iframe#:1.container{
 						<div class="sec-title">
 							<h2>Get The App</h2>
 							<div class="separater"></div>
-							<div class="text">Blockchain-based decentralized secure premium escort App and fastest-growing social network</div>
+							<div class="text">Blockchain-based decentralized secure premium Dating App and fastest-growing social network</div>
 						</div>
 						<div class="link-box">
-							<a href="{{ url('/') }}/files/chat.Zuzube.apk"
+							<a href="#"
 							class="btn-link-app theme-btn btn-style-seven" target="_blank">DOWNLOAD ZUZUBE ANDROID APP</a>
 							<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 							<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
