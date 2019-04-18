@@ -113,10 +113,10 @@ iframe#:1.container{
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
 							and who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<!-- <a href="#" 
-								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>								 -->
-							</div>
-							
+								<a href="https://play.google.com/store/apps/details?id=com.zuzubedating.Zuzube" target="_blank" class="">
+								<img src="images/and.png" width="175px;" alt=""></a>
+								<!-- <a href="#" class=""><img src="images/apple.png" width="175px;" alt=""></a> -->
+							</div>							
 						</div>
 						<div class="image-box">
 							<div class="image">
@@ -137,9 +137,10 @@ iframe#:1.container{
 							and payment in a single platform. Zuzube offers an advanced companionship experience to a trusted customer 
 							and who value discreet, secure exchanges.</div>							
 							<div class="link-box">
-								<!-- <a href="#" 
-								target="_blank" class="btn-link-app theme-btn btn-style-seven">DOWNLOAD ZUZUBE ANDROID APP</a>								 -->
-							</div>
+								<a href="https://play.google.com/store/apps/details?id=com.zuzubedating.Zuzube" target="_blank" class="">
+								<img src="images/and.png" width="175px;" alt=""></a>
+								<!-- <a href="#" class=""><img src="images/apple.png" width="175px;" alt=""></a> -->
+							</div>	
 							
 						</div>
 						<div class="image-box">
@@ -690,10 +691,11 @@ iframe#:1.container{
 							<!-- <a href="#" class=""><img src="images/and.png" width="200px;" alt=""></a> -->
 							<!-- <a href="#" class=""><img src="images/apple.png" width="200px;" alt=""></a> -->
 						</div>
-						<!-- <div class="btns-box">
-							<a href="#" class="theme-btn wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><img src="images/icons/app-btn.png" alt="" /></a>
-							<a href="#" class="theme-btn wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms"><img src="images/icons/google-btn.png" alt="" /></a>
-						</div> -->
+						<div class="btns-box">
+							<!-- <a href="#" class="theme-btn wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms"><img src="images/icons/app-btn.png" alt="" /></a> -->
+							<a href="https://play.google.com/store/apps/details?id=com.zuzubedating.Zuzube" target="_blank" 
+							class="theme-btn wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms"><img src="images/icons/google-btn.png" alt="" /></a>
+						</div>
 					</div>
 				</div>
 				<div class="image-column col-lg-6 col-md-12 col-sm-12">
